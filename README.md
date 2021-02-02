@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently doing internship with BeCode.org :blush:
 - :books: I'm doing research in image processing and machine learning.
-- :gem: I always like to accept challenges and learn new things
-- 🥅 2021 Goals: publish papers in SI journals, find job in Data Science/ Machine Learning
-- ⚡ [Hobbies]: Table Tennis and Indian Classical Dance
+- :gem: I always like to accept challenges and learn new things.
+- 🥅 2021 Goals: publish papers in SI journals, find job in Data Science/ Machine Learning.
+- ⚡ [Hobbies]: Table Tennis and Indian Classical Dance.
 
 
 ### Connect with me:
