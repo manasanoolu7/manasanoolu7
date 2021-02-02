@@ -14,8 +14,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://raw.githubusercontent.com/omidnikrah/github-readme-medium/master/medium.png" />][medium]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://i.stack.imgur.com/gVE0j.png" />][linkedin]
 
 <br />
 
