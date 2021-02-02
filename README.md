@@ -5,9 +5,11 @@
 
 ## I'm a Wife, Mother, Developer, and Teacher!!
 
-- 🌱 I’m currently doing internship with BeCode.org 
+- 🌱 I’m currently doing internship with BeCode.org :blush:
+- :books: I'm doing research in image processing and machine learning.
+- :gem: I always like to accept challenges and learn new things
 - 🥅 2021 Goals: publish papers in SI journals, find job in Data Science/ Machine Learning
-- ⚡ Fun fact: I like Table Tennis and Indian Classical Dance
+- ⚡ [Hoobies]: Table Tennis and Indian Classical Dance
 
 
 ### Connect with me:
