@@ -63,7 +63,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manasanoolu7&show_icons=true&layout=compact&theme=radical" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manasanoolu7&layout=compact&theme=radical)](https://github.com/manasanoolu7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manasanoolu7&layout=compact&theme=radical&hide=shell,ruby)](https://github.com/manasanoolu7/github-readme-stats)
  
 </details>
 
