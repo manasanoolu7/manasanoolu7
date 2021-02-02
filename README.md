@@ -39,15 +39,11 @@
 ### Publications:
 
 [Book Chapter-Springer](https://link.springer.com/chapter/10.1007/978-3-030-24318-0_82)
-
 [Journal](https://www.ijrte.org/wp-content/uploads/papers/v7i6s4/F10230476S419.pdf)
-  
-
-<br/>
+  <br/>
 
 ### Achivements:
 - :1st_place_medal: [Gold Medal in Master of Technology](http://morthamanasa.blogspot.com/2012/10/my-profile.html)
-
 <br/>
 
 ### 📕 Latest Posts:
@@ -58,8 +54,6 @@
 <!-- Article:END -->
 
 ---
-
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
