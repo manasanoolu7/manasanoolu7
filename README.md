@@ -58,9 +58,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  [![Manasa's github stats](https://github-readme-stats.vercel.app/api?username=manasanoolu7)]
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
+  ![Manasa's github stats](https://github-readme-stats.vercel.app/api?username=manasanoolu7)
+ 
 </details>
 
 [instagram]: https://www.instagram.com/manasamortha/?hl=en
