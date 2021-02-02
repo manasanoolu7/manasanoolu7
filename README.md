@@ -45,6 +45,11 @@
 
 <br/>
 
+### Achivements:
+- [Gold Medal in Master of Technology](http://morthamanasa.blogspot.com/2012/10/my-profile.html)
+
+<br/>
+
 ### 📕 Latest Posts:
 
 <!-- Article -->
