@@ -50,7 +50,7 @@
 ### 📕 Latest Posts:
 
 <!-- Article -->
-[BeCode junior Manasa about her first hackathon experience: “During this hackathon, I’ve learned more than just building an application](https://becode.org/news/11595/becode-junior-manasa-about-her-first-hackathon-experience-during-this-hackathon-ive-learned-more-than-just-building-an-application/)
+[BeCode junior Manasa about her first hackathon experience](https://becode.org/news/11595/becode-junior-manasa-about-her-first-hackathon-experience-during-this-hackathon-ive-learned-more-than-just-building-an-application/)
 
 <!-- Article:END -->
 
