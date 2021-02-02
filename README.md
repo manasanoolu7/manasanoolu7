@@ -34,6 +34,17 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 <br />
 
+### Publications
+
+[Book Chapter-Springer](https://link.springer.com/chapter/10.1007/978-3-030-24318-0_82)
+
+[Journal](https://www.ijrte.org/wp-content/uploads/papers/v7i6s4/F10230476S419.pdf)
+  
+
+
+
+<br/>
+
 ### 📕 Latest Posts
 
 <!-- Article -->
