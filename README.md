@@ -58,7 +58,10 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  ![Manasa's github stats](https://github-readme-stats.vercel.app/api?username=manasanoolu7)
+  
+  <a href="https://github.com/manasanoolu7">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manasanoolu7&layout=compact&theme=radical" />
+</a>
  
 </details>
 
