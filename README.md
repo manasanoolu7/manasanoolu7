@@ -1,5 +1,8 @@
 ### Hello, I'm Manasa Noolu(Mortha) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+
+[![HitCount](http://hits.dwyl.com/manasanoolu7/manasanoolu7.svg)](http://hits.dwyl.com/manasanoolu7/manasanoolu7)
+
 ## I'm a Wife, Mother, Developer, and Teacher!!
 
 - 🌱 I’m currently doing internship with BeCode.org 
