@@ -9,7 +9,7 @@
 - :books: I'm doing research in image processing and machine learning.
 - :gem: I always like to accept challenges and learn new things
 - 🥅 2021 Goals: publish papers in SI journals, find job in Data Science/ Machine Learning
-- ⚡ [Hoobies]: Table Tennis and Indian Classical Dance
+- ⚡ [Hobbies]: Table Tennis and Indian Classical Dance
 
 
 ### Connect with me:
@@ -43,8 +43,6 @@
 [Journal](https://www.ijrte.org/wp-content/uploads/papers/v7i6s4/F10230476S419.pdf)
   
 
-
-
 <br/>
 
 ### 📕 Latest Posts
@@ -60,7 +58,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  [![Manasa's github stats](https://github-readme-stats.vercel.app/api?username=manasanoolu7)]
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
