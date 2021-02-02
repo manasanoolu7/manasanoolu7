@@ -16,7 +16,6 @@
 
 [<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -67,8 +66,6 @@
  
 </details>
 
-[instagram]: https://www.instagram.com/manasamortha/?hl=en
 [linkedin]: https://www.linkedin.com/in/manasanoolu/
-[Facebook]: https://www.facebook.com/manasa.mortha
 [Medium]: https://manasanoolumortha.medium.com/
 
