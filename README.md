@@ -3,9 +3,9 @@
 
 [![HitCount](http://hits.dwyl.com/manasanoolu7/manasanoolu7.svg)](http://hits.dwyl.com/manasanoolu7/manasanoolu7)
 
-## I'm a Wife, Mother, Developer, and Teacher!!
+## I'm a Data Scientist, Wife, Mother, Developer, and Teacher!!
 
-- 🌱 I’m currently doing internship with BeCode.org :blush:
+- 🌱 I’m currently working for KBC Bank & Verzekering as Data Scientist in customer relationship manager department, Belgium :blush:
 - :books: I'm doing research in image processing and machine learning.
 - :gem: I always like to accept challenges and learn new things.
 - 🥅 2021 Goals: publish papers in SI journals, find job in Data Science/ Machine Learning.
