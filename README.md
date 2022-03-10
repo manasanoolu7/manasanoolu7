@@ -5,7 +5,8 @@
 
 ## I'm a Data Scientist, Wife, Mother, Developer, and Teacher!!
 
-- 🌱 I’m currently working for KBC Bank & Verzekering as Data Scientist in customer relationship manager department, Belgium :blush:
+- 🌱 I’m currently working for ASCENT Fund Services as Data Scientist in customer relationship manager department, Belgium :blush:
+- :previous experience: I worked for KBC Bank & Verzekering, Belgium from March 2021 to August 2021. Before that worked for BeCode.org as intern and Data Scientist from October 2019 to March 2021.
 - :books: I'm doing research in image processing and machine learning.
 - :gem: I always like to accept challenges and learn new things.
 - 🥅 2021 Goals: publish papers in SI journals, find job in Data Science/ Machine Learning.
