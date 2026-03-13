@@ -1,10 +1,12 @@
 🌱 **Current Role**
-I’m working as a **Simulation & Modeling Engineer** at **Johnson & Johnson** via **Randstad** (2025–Present), focusing on advanced modeling, data-driven analysis, and computational simulation solutions for pharmaceuticals manufacturing process.
+
+I’m working as a **Simulation & Modeling Engineer** at **Johnson & Johnson** via **Randstad** (Jan 2025 – Present), focusing on advanced modeling, data-driven analysis, and computational simulation solutions for pharmaceuticals manufacturing process.
 
 💼 **Previous Experience**  
 - **Data Scientist**, ASCENT Fund Services – Customer Relationship Manager Department, India (Nov 2021 - Aug 2024). 
 - **Data Scientist**, KBC Bank & Verzekering, Belgium (Mar 2021 – Aug 2021)  
 - **Data Science Intern → Data Scientist**, BeCode.org (Oct 2019 – Mar 2021)
+- **Assistant Professor**, VNR VJIET, India (Oct 2008 - Aug 2019)
 
 📚 **Research Interests**  
 Image Processing, Machine Learning, Predictive Modeling, Simulation Technologies, and Applied AI.
