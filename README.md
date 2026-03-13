@@ -1,16 +1,25 @@
-### Hello, I'm Manasa Noolu(Mortha) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+🌱 **Current Role**
+I’m working as a **Simulation & Modeling Engineer** at **Johnson & Johnson** via **Randstad** (2025–Present), focusing on advanced modeling, data-driven analysis, and computational simulation solutions for pharmaceuticals manufacturing process.
 
+💼 **Previous Experience**  
+- **Data Scientist**, ASCENT Fund Services – Customer Relationship Manager Department, India (Nov 2021 - Aug 2024). 
+- **Data Scientist**, KBC Bank & Verzekering, Belgium (Mar 2021 – Aug 2021)  
+- **Data Science Intern → Data Scientist**, BeCode.org (Oct 2019 – Mar 2021)
 
-[![HitCount](http://hits.dwyl.com/manasanoolu7/manasanoolu7.svg)](http://hits.dwyl.com/manasanoolu7/manasanoolu7)
+📚 **Research Interests**  
+Image Processing, Machine Learning, Predictive Modeling, Simulation Technologies, and Applied AI.
 
-## I'm a Data Scientist, Wife, Mother, Developer, and Teacher!!
+💎 **Personal Traits**  
+I’m passionate about solving complex problems, taking on challenges, and constantly learning new technologies.
 
-- 🌱 I’m currently working for ASCENT Fund Services as Data Scientist in customer relationship manager department, Belgium :blush:
-- :previous experience: I worked for KBC Bank & Verzekering, Belgium from March 2021 to August 2021. Before that worked for BeCode.org as intern and Data Scientist from October 2019 to March 2021.
-- :books: I'm doing research in image processing and machine learning.
-- :gem: I always like to accept challenges and learn new things.
-- 🥅 2021 Goals: publish papers in SI journals, find job in Data Science/ Machine Learning.
-- ⚡ [Hobbies]: Table Tennis and Indian Classical Dance.
+🥅 **Goals**  
+- Advance expertise in simulation & AI-driven modeling  
+- Publish research articles in reputable journals  
+- Build innovative ML/Simulation-based projects  
+- Grow technically and professionally in computational engineering
+
+⚡ **Hobbies**  
+Table Tennis 🏓 | Indian Classical Dance 💃 | Tech Exploration 🚀
 
 
 ### Connect with me:
